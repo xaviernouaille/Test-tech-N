@@ -1,4 +1,4 @@
-# my-app
+# Niagara
 
 ## Project setup
 ```
