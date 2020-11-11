@@ -1,5 +1,9 @@
 # Niagara
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/68466322/98829988-24db7f80-243a-11eb-813e-58f26af52bb0.png)
+
 ## Project setup
 ```
 npm install
